@@ -7,21 +7,9 @@ Malaria Parasite Detection through image processing using deep learning
 by Kaaya Marvin.
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+Here, we provide links to the project assets including the SRS, project report, SDD and documentation. We also provide the project source code for the  the backend and frontend application
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 
@@ -32,6 +20,8 @@ by Miiro HENRY
 
 ```markdown
 
+With the blood smear images, we can be able to detect malarial parasite within blood of a patient therefore the patient can be look for a way forward.
+
 
 ```
 ### Data Collection
@@ -40,6 +30,7 @@ by Mukwatse Collin
 
 ```markdown
 
+here we collect data from hospitals, doctors and clinics.
 
 ```
 
@@ -49,5 +40,35 @@ by Nakayenga Viola
 
 ```markdown
 
+ the tools we used for data  collection throughout this project
+
+```
+### Writing and presenting our concept paper.
+
+by Kaaya Marvin
+
+```markdown
+
+Presenting and discussing concept paper with supervisor
+
+```
+
+### Idea Supervision with our supervisor
+
+by Mukwatse Collin
+
+```markdown
+
+finding out what our supervisor thinks of our project..
+
+```
+
+### Project Ideation
+
+by Nakayenga Viola
+
+```markdown
+
+how we came up with our project idea
 
 ```
